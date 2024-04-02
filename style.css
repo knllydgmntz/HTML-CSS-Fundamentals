@@ -235,6 +235,34 @@ h2::after {
   right: -25px;
 }
 
+.color {
+  background-color: #000;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+article div {
+  text-align: center;
+}
+
+.color-blue {
+  background-color: blue;
+}
+.color-red {
+  background-color: #ec2f2f;
+}
+.color-yellow {
+  background-color: #f0bf1e;
+}
+.color-green {
+  background-color: #90cc20;
+}
+.color-brown {
+  background-color: #885214;
+}
+
 /* LVHA */
 
 /* Resolving conflicts */
